@@ -1,4 +1,4 @@
-# acikek's AoC2020
+# acikek's AoC-2020
 
 ### [Advent of Code](https://adventofcode.com/2020/about)
 
