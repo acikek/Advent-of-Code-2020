@@ -1,4 +1,4 @@
-let numbers = require("fs").readFileSync("./1/puzzle.txt", ).toString().split("\r\n");
+let numbers = require("fs").readFileSync("./src/1/puzzle.txt", ).toString().split("\r\n");
 let solutions = [];
 
 // Part 1

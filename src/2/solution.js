@@ -1,4 +1,4 @@
-let lines = require("fs").readFileSync("./2/puzzle.txt").toString().split("\r\n");
+let lines = require("fs").readFileSync("./src/2/puzzle.txt").toString().split("\r\n");
 
 let valid1 = [];
 let valid2 = [];

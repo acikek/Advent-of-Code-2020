@@ -1,4 +1,4 @@
-let map = require("fs").readFileSync("./3/puzzle.txt").toString().split("\r\n");
+let map = require("fs").readFileSync("./src/3/puzzle.txt").toString().split("\r\n");
 let encounters = [];
 
 let slopes = [ 
